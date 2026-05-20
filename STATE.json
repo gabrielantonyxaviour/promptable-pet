@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "kind": "hackathon-execution",
+  "hackathon": "build-with-medo-hackathon",
+  "idea": "Promptable Pet",
+  "slug": "build-with-medo-hackathon",
+  "runId": "2026-05-20T03-56-39Z",
+  "runDir": "/Users/gabrielantonyxaviour/Documents/hackathons/build-with-medo-hackathon/execution/2026-05-20T03-56-39Z-promptable-pet",
+  "status": "running",
+  "agent": "gpt-5.5-builder",
+  "modelPolicy": "execution-code-builds-must-use-gpt-5.5-or-claude-opus-4.7-not-kimi",
+  "output": "/Users/gabrielantonyxaviour/Documents/hackathons/build-with-medo-hackathon/execution/2026-05-20T03-56-39Z-promptable-pet/outputs/builder-report.md",
+  "submitter": {
+    "name": "Gabriel",
+    "chromeDir": "Default",
+    "chromeProfile": "Gabriel",
+    "email": "gabrielantony56@gmail.com",
+    "role": "solo submitter / repo owner"
+  },
+  "browser": {
+    "appSession": "medo-gabriel-promptable-pet-app",
+    "pluginsSession": "medo-gabriel-promptable-pet-plugins",
+    "devpostSession": "medo-gabriel-promptable-pet-devpost",
+    "githubSession": "medo-gabriel-promptable-pet-github"
+  },
+  "medo": {
+    "ownedProjectUrl": "https://medo.dev/projects/app-brfxm7x6hxxd",
+    "publicAppUrl": null,
+    "pluginDecision": "Use managed Nano Banana Pro image generation as the product-facing plugin path, with deterministic cached pet states as judge-safe fallback.",
+    "backendDecision": "Use Data Storage for pets, daily logs, evolution states, and prompt receipts; User Management optional for demo but include login-ready model; Backend Function computes deterministic evolution state; Secrets only for future external API keys."
+  },
+  "repo": {
+    "owner": "Gabriel",
+    "name": "promptable-pet",
+    "url": "https://github.com/gabrielantonyxaviour/promptable-pet",
+    "visibility": "public planned"
+  },
+  "submission": {
+    "portal": "https://medo.devpost.com/",
+    "status": "read-only preflight complete; not joined or submitted by this session"
+  }
+}

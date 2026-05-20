@@ -1,0 +1,5 @@
+# MeDo Build Prompt
+
+Submitted in session `medo-gabriel-promptable-pet-app` on 2026-05-20 IST.
+
+Build Promptable Pet as a full-stack MeDo hackathon app. Persistent digital pet evolves from daily sleep, mood, meal, and care inputs. Enable backend services: Data Storage for users, pet_profiles, daily_logs, evolution_events, cached_pet_states; Backend Functions for computePetState, saveDailyLog, generateExplanation; optional Login demo profile; Secrets only if plugins need keys. Use image generation/Nano Banana Pro or cached pet states for 6 deterministic visual evolutions. Use LLM plugin for short explanations. UI should be premium playful creative-tool style: large animated pet habitat, compact daily input controls, week evolution strip, why-it-changed card, Build Witness drawer showing backend tables/functions/plugins. First 5 seconds: enter 8h sleep, calm mood, cooked dinner; pet changes immediately, week strip updates, explanation appears. Include seeded 7-day data, persistence across reloads, responsive polished design, no generic CRUD dashboard.

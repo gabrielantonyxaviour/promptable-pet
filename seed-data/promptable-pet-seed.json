@@ -1,0 +1,88 @@
+{
+  "pet": {
+    "id": "pet_demo_luma",
+    "name": "Luma",
+    "speciesSeed": "moon-sprout",
+    "currentStateKey": "sleepy-sprout",
+    "level": 2
+  },
+  "evolutionStates": [
+    {
+      "stateKey": "sleepy-sprout",
+      "title": "Sleepy Sprout",
+      "energyBand": "low",
+      "color": "mist blue",
+      "careCopy": "Luma is waiting for today's care signal."
+    },
+    {
+      "stateKey": "rested-spark",
+      "title": "Rested Spark",
+      "energyBand": "high",
+      "color": "mint coral",
+      "careCopy": "Good sleep gave Luma a brighter posture."
+    },
+    {
+      "stateKey": "anxious-cloud",
+      "title": "Anxious Cloud",
+      "energyBand": "uneven",
+      "color": "lavender gray",
+      "careCopy": "A tense mood asks for a softer care action."
+    },
+    {
+      "stateKey": "nourished-bloom",
+      "title": "Nourished Bloom",
+      "energyBand": "steady",
+      "color": "leaf green",
+      "careCopy": "Balanced food helped Luma bloom."
+    },
+    {
+      "stateKey": "weekly-evolved",
+      "title": "Weekly Evolved",
+      "energyBand": "growing",
+      "color": "sunlit mint",
+      "careCopy": "A full week of signals unlocked the next form."
+    }
+  ],
+  "dailyLogs": [
+    {
+      "date": "2026-05-14",
+      "sleepHours": 6,
+      "mood": "tired",
+      "mealSignal": "snack",
+      "careAction": "checked in",
+      "resultStateKey": "sleepy-sprout"
+    },
+    {
+      "date": "2026-05-15",
+      "sleepHours": 7,
+      "mood": "calm",
+      "mealSignal": "balanced",
+      "careAction": "walked",
+      "resultStateKey": "nourished-bloom"
+    },
+    {
+      "date": "2026-05-16",
+      "sleepHours": 5,
+      "mood": "stressed",
+      "mealSignal": "skipped",
+      "careAction": "breathed",
+      "resultStateKey": "anxious-cloud"
+    },
+    {
+      "date": "2026-05-17",
+      "sleepHours": 8,
+      "mood": "calm",
+      "mealSignal": "balanced",
+      "careAction": "played",
+      "resultStateKey": "rested-spark"
+    },
+    {
+      "date": "2026-05-18",
+      "sleepHours": 8,
+      "mood": "hopeful",
+      "mealSignal": "balanced",
+      "careAction": "played",
+      "resultStateKey": "weekly-evolved"
+    }
+  ]
+}
