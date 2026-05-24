@@ -1,21 +1,19 @@
-# Team
+# Team — Weekling (Build with MeDo Hackathon)
 
-Hackathon: Build with MeDo Hackathon
-Project: Promptable Pet
-Mode: solo submission
+## Members
 
-## Submitter
+| Name | Role | GitHub | Email |
+|---|---|---|---|
+| Gabriel Antony Xavier | Solo founder / builder | @gabrielantonyxaviour | gabrielantony56@gmail.com |
 
-- Persona: Gabriel
-- Chrome dir: `Default`
-- Chrome profile: `Gabriel`
-- Email: `gabrielantony56@gmail.com`
-- MeDo session stem: `medo-gabriel-promptable-pet`
-- Devpost session: `medo-gabriel-promptable-pet-devpost`
+## Accounts used for submission
 
-## Ownership
+- **Devpost:** gabrielantonyxaviour (gabrielantony56@gmail.com)
+- **MeDo:** gabrielantony56@gmail.com
+- **GitHub repo:** https://github.com/gabrielantonyxaviour/promptable-pet
+- **X handle:** @gabrielaxyeth
 
-- Gabriel owns the MeDo app, Devpost draft, public repository, demo video, and final submission.
-- No other profile may edit this MeDo app or Devpost draft.
-- Do not reuse old shared MeDo URLs such as `app-amaxapjx24g0` or `app-brcr7qqqmadd`.
+## Notes
 
+This is a solo submission. Gabriel built the entire app using MeDo's AI no-code builder.
+The app (Weekling) was built autonomously using MeDo's AI builder with 110+ tasks completed.
